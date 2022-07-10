@@ -1,0 +1,33 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "Henry DiStasio",
+    "titleTemplate": "%s · Henry DiStasio",
+    "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+    "author": "Henry DiStasio",
+    "avatar": "../content/images/henry-sq.jpg",
+    "bio": "Henry is a History graduate of Kings College London and holds an NCTJ Gold Standard in Journalism. He has experience in broadcasting as the Sport Editor of KCL Radio and currently work in the sports charity sector, promoting amateur sports.",
+    "social": {
+      "mail": "mailto:mail@konstantin.digital"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Henry DiStasio" },
+    "navigation": {
+      "header": [
+      ],
+      "ctaButton": {
+        "openNewTab": false,
+        "label": "Articles",
+        "url": "/articles"
+      },
+      "footer": []
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}
